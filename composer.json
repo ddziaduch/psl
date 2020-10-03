@@ -14,7 +14,8 @@
         "ext-bcmath": "*",
         "ext-mbstring": "*",
         "ext-json": "*",
-        "ext-sodium": "*"
+        "ext-sodium": "*",
+        "ext-intl": "*"
     },
     "require-dev": {
         "vimeo/psalm": "dev-master",
